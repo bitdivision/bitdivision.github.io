@@ -4,32 +4,33 @@
 
 
   
+  
 
 <title type="text">Richard Fortescue-Webb</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="/" />
-<updated>2014-11-30T14:11:37+00:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http:rfwebb.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http:rfwebb.com/" />
+<updated>2014-11-30T14:39:43+00:00</updated>
+<id>http:rfwebb.com/</id>
 <author>
   <name>Richard Fortescue-Webb</name>
-  <uri>/</uri>
+  <uri>http:rfwebb.com/</uri>
   <email>richard@rfwebb.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Installing Arch Linux on a Samsung Ativ Book 8 (NP880Z5E)]]></title>
-  <link rel="alternate" type="text/html" href="/linux/archlinux-samsung-ativ-8"/>
-  <id>/linux/archlinux-samsung-ativ-8</id>
+  <link rel="alternate" type="text/html" href="http:rfwebb.com/linux/archlinux-samsung-ativ-8"/>
+  <id>http:rfwebb.com/linux/archlinux-samsung-ativ-8</id>
   <published>2013-10-02T00:00:00+01:00</published>
   <updated>2013-10-02T00:00:00+01:00</updated>
   <author>
     <name>Richard Fortescue-Webb</name>
-    <uri></uri>
+    <uri>http:rfwebb.com</uri>
     <email>richard@rfwebb.com</email>
   </author>
-  <category scheme="/tags/#linux" term="linux" /><category scheme="/tags/#arch" term="arch" />
+  <category scheme="http:rfwebb.com/tags/#linux" term="linux" /><category scheme="http:rfwebb.com/tags/#arch" term="arch" />
   <content type="html">
   
     &lt;p&gt;I recently purchased a new Samsung Ativ book 8 from &lt;a href=&quot;http://www.bestbuy.com/site/Samsung---ATIV-Book-8-15.6%26%2334%3B-Touch-Screen-Laptop---8GB-Memory---1TB-Hard-Drive---Mineral-Ash-Black/8965053.p?id=1218957864443&amp;amp;skuId=8965053&quot; title=&quot;Samsung Ativ Book 8 at Best Buy&quot;&gt;BestBuy&lt;/a&gt;. Here I’ll
@@ -169,25 +170,25 @@ of the kernel, I would suggest not using acpi-call.&lt;/p&gt;
 
 
   
-  &lt;p&gt;&lt;a href=&quot;/linux/archlinux-samsung-ativ-8&quot;&gt;Installing Arch Linux on a Samsung Ativ Book 8 (NP880Z5E)&lt;/a&gt; was originally published by Richard Fortescue-Webb at &lt;a href=&quot;&quot;&gt;Richard Fortescue-Webb&lt;/a&gt; on October 02, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:rfwebb.com/linux/archlinux-samsung-ativ-8&quot;&gt;Installing Arch Linux on a Samsung Ativ Book 8 (NP880Z5E)&lt;/a&gt; was originally published by Richard Fortescue-Webb at &lt;a href=&quot;http:rfwebb.com&quot;&gt;Richard Fortescue-Webb&lt;/a&gt; on October 02, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Spirit Circuits &#8216;Go Naked&#8217; PCB Prototype Review]]></title>
-  <link rel="alternate" type="text/html" href="/electronics/spirit-circuits-go-naked-pcb-prototype-review"/>
-  <id>/electronics/spirit-circuits-go-naked-pcb-prototype-review</id>
+  <link rel="alternate" type="text/html" href="http:rfwebb.com/electronics/spirit-circuits-go-naked-pcb-prototype-review"/>
+  <id>http:rfwebb.com/electronics/spirit-circuits-go-naked-pcb-prototype-review</id>
   <published>2013-08-29T00:00:00+01:00</published>
   <updated>2013-08-29T00:00:00+01:00</updated>
   <author>
     <name>Richard Fortescue-Webb</name>
-    <uri></uri>
+    <uri>http:rfwebb.com</uri>
     <email>richard@rfwebb.com</email>
   </author>
-  <category scheme="/tags/#sous-vide" term="sous-vide" /><category scheme="/tags/#electronics" term="electronics" /><category scheme="/tags/#PCB" term="PCB" /><category scheme="/tags/#Spirit%20Circuits" term="Spirit Circuits" /><category scheme="/tags/#GoNaked" term="GoNaked" />
+  <category scheme="http:rfwebb.com/tags/#sous-vide" term="sous-vide" /><category scheme="http:rfwebb.com/tags/#electronics" term="electronics" /><category scheme="http:rfwebb.com/tags/#PCB" term="PCB" /><category scheme="http:rfwebb.com/tags/#Spirit%20Circuits" term="Spirit Circuits" /><category scheme="http:rfwebb.com/tags/#GoNaked" term="GoNaked" />
   <content type="html">
   
-    &lt;p&gt;I recently used the &lt;em&gt;free&lt;/em&gt; &lt;a href=&quot;http://www.spiritcircuits.com/services/go-naked&quot; title=&quot;The Go Naked Prototyping Service&quot;&gt;‘Go Naked’&lt;/a&gt; service from Spirit Circuits to produce a prototype PCB used in a &lt;a href=&quot;/projects/sous-vide-part-1/&quot; title=&quot;Sous-Vide Controller Part 1 – Design&quot;&gt;sous-vide controller&lt;/a&gt;. Overall I was extremely satisfied with the service, although I couldn’t quite believe it was actually free to begin with, so hopefully this short review will give others an idea of what to expect.&lt;/p&gt;
+    &lt;p&gt;I recently used the &lt;em&gt;free&lt;/em&gt; &lt;a href=&quot;http://www.spiritcircuits.com/services/go-naked&quot; title=&quot;The Go Naked Prototyping Service&quot;&gt;‘Go Naked’&lt;/a&gt; service from Spirit Circuits to produce a prototype PCB used in a &lt;a href=&quot;http:rfwebb.com/projects/sous-vide-part-1/&quot; title=&quot;Sous-Vide Controller Part 1 – Design&quot;&gt;sous-vide controller&lt;/a&gt;. Overall I was extremely satisfied with the service, although I couldn’t quite believe it was actually free to begin with, so hopefully this short review will give others an idea of what to expect.&lt;/p&gt;
 
 &lt;p&gt;Having previously used their PCB Snap service, I knew that Spirit Circuits produced high quality boards however given the price of these prototypes, I was worried the quality wouldn’t be great. Luckily I was proved wrong. After enquiring about the service I was given the following information about the board specifications:&lt;/p&gt;
 
@@ -204,7 +205,7 @@ of the kernel, I would suggest not using acpi-call.&lt;/p&gt;
 
 &lt;p&gt;The boards came vacuum packed in a kind of hard plastic shell with bubble wrap, so oxidation and scratching weren’t a problem. The final board looked like this:&lt;/p&gt;
 
-&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/GoNaked-review/DSC_6261-Edit.jpg&quot;&gt;&lt;img src=&quot;/images/GoNaked-review/DSC_6261-Edit-700x478.jpg&quot; alt=&quot;board&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;http:rfwebb.com/images/GoNaked-review/DSC_6261-Edit.jpg&quot;&gt;&lt;img src=&quot;http:rfwebb.com/images/GoNaked-review/DSC_6261-Edit-700x478.jpg&quot; alt=&quot;board&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;As you can probably see in the photo, there is a small amount of oxidation, this was probably due to my fingers on the board although it did seem to get a little worse over the next few days so perhaps oxidation in air is a problem. I did find that the advertising around the edge of the board was a little bit of a pain, I’m happy for them to have it there but it would have been very helpful to v-groove the board outline just so that a prototypes dimensions could be checked.&lt;/p&gt;
 
@@ -214,31 +215,31 @@ of the kernel, I would suggest not using acpi-call.&lt;/p&gt;
 
 
   
-  &lt;p&gt;&lt;a href=&quot;/electronics/spirit-circuits-go-naked-pcb-prototype-review&quot;&gt;Spirit Circuits &#8216;Go Naked&#8217; PCB Prototype Review&lt;/a&gt; was originally published by Richard Fortescue-Webb at &lt;a href=&quot;&quot;&gt;Richard Fortescue-Webb&lt;/a&gt; on August 29, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:rfwebb.com/electronics/spirit-circuits-go-naked-pcb-prototype-review&quot;&gt;Spirit Circuits &#8216;Go Naked&#8217; PCB Prototype Review&lt;/a&gt; was originally published by Richard Fortescue-Webb at &lt;a href=&quot;http:rfwebb.com&quot;&gt;Richard Fortescue-Webb&lt;/a&gt; on August 29, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Sous-Vide Controller Part 2 &#8211; Building and Testing]]></title>
-  <link rel="alternate" type="text/html" href="/projects/sous-vide-part-2"/>
-  <id>/projects/sous-vide-part-2</id>
+  <link rel="alternate" type="text/html" href="http:rfwebb.com/projects/sous-vide-part-2"/>
+  <id>http:rfwebb.com/projects/sous-vide-part-2</id>
   <published>2013-06-18T00:00:00+01:00</published>
   <updated>2013-06-18T00:00:00+01:00</updated>
   <author>
     <name>Richard Fortescue-Webb</name>
-    <uri></uri>
+    <uri>http:rfwebb.com</uri>
     <email>richard@rfwebb.com</email>
   </author>
-  <category scheme="/tags/#sous-vide" term="sous-vide" /><category scheme="/tags/#electronics" term="electronics" />
+  <category scheme="http:rfwebb.com/tags/#sous-vide" term="sous-vide" /><category scheme="http:rfwebb.com/tags/#electronics" term="electronics" />
   <content type="html">
   
-    &lt;p&gt;I previously &lt;a href=&quot;/projects/sous-vide-part-1&quot; title=&quot;Sous-Vide Controller Part 1 – Design&quot;&gt;wrote&lt;/a&gt; about designing a temperature controller for sous-vide
+    &lt;p&gt;I previously &lt;a href=&quot;http:rfwebb.com/projects/sous-vide-part-1&quot; title=&quot;Sous-Vide Controller Part 1 – Design&quot;&gt;wrote&lt;/a&gt; about designing a temperature controller for sous-vide
 cooking. Here I will go through the process of building and testing the
 controller.&lt;/p&gt;
 
-&lt;p&gt;To produce the PCB I used a &lt;a href=&quot;http://www.spiritcircuits.com/services/go-naked&quot; title=&quot;Spirit Circuits &#39;Go Naked&#39; Prototyping Service&quot;&gt;free service&lt;/a&gt; from Spirit Circuits in the UK. They allow customers to order three bare PCBs free before they have to buy anything, which is extremely useful for prototyping boards. I have a review on my blog &lt;a href=&quot;/electronics/spirit-circuits-go-naked-pcb-prototype-review/&quot; title=&quot;Spirit Circuits ‘Go Naked’ PCB Prototype Review&quot;&gt;here&lt;/a&gt;. The boards came out quite well although I did have a few problems with the design.&lt;/p&gt;
+&lt;p&gt;To produce the PCB I used a &lt;a href=&quot;http://www.spiritcircuits.com/services/go-naked&quot; title=&quot;Spirit Circuits &#39;Go Naked&#39; Prototyping Service&quot;&gt;free service&lt;/a&gt; from Spirit Circuits in the UK. They allow customers to order three bare PCBs free before they have to buy anything, which is extremely useful for prototyping boards. I have a review on my blog &lt;a href=&quot;http:rfwebb.com/electronics/spirit-circuits-go-naked-pcb-prototype-review/&quot; title=&quot;Spirit Circuits ‘Go Naked’ PCB Prototype Review&quot;&gt;here&lt;/a&gt;. The boards came out quite well although I did have a few problems with the design.&lt;/p&gt;
 
-&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/sous-vide-2/DSC_6261-Edit.jpg&quot;&gt;&lt;img src=&quot;/images/sous-vide-2/DSC_6261-Edit-700x478.jpg&quot; alt=&quot;prototype pcb&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;http:rfwebb.com/images/sous-vide-2/DSC_6261-Edit.jpg&quot;&gt;&lt;img src=&quot;http:rfwebb.com/images/sous-vide-2/DSC_6261-Edit-700x478.jpg&quot; alt=&quot;prototype pcb&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;circuit-issues&quot;&gt;Circuit Issues&lt;/h2&gt;
 
@@ -262,13 +263,13 @@ controller.&lt;/p&gt;
 
 &lt;p&gt;The PCB was mounted to the lid of the case using brass spacers, these were sized to place the light pipes directly above the SMD LEDs on the underside of the board. I was somewhat overzealous while filing out the hole for the LCD so there is a slight gap between the edge of the plastic and the LCD. The transformer and SSR were both mounted on the bottom of the box and their screws were earthed. I later realised that it would be a good idea to also earth reference the PCB just in case the live wire from the socket came free and contacted the board. The final version of the front panel looks like this:&lt;/p&gt;
 
-&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/sous-vide-2/DSC_6453.jpg&quot;&gt;&lt;img src=&quot;/images/sous-vide-2/DSC_6453-700x464.jpg&quot; alt=&quot;Front panel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;http:rfwebb.com/images/sous-vide-2/DSC_6453.jpg&quot;&gt;&lt;img src=&quot;http:rfwebb.com/images/sous-vide-2/DSC_6453-700x464.jpg&quot; alt=&quot;Front panel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I was somewhat worried that the SSR would get somewhat warm without a heatsink however with the low power of rice cookers and other heating elements that the controller would likely be used with, it wasn’t a problem at all. If a higher power element was used, it would be a good idea to add some sort of heatsink or at least some ventilation.&lt;/p&gt;
 
 &lt;p&gt;The temperature probe was designed to be connected via a stereo headphone jack (3.5mm). This allows headphone cables to be repurposed and gives the three connections required for the sensor (although the sensor can be powered from the data line, using a discrete power connection generally seems more reliable). The temperature sensor was soldered onto the leads from the headphone cable and insulated with heatshrink. Next, an aluminium tube was cut to size and filled with a little thermally conductive epoxy. This gives a reasonably good thermal connection to the sensor. Finally the tube was injected with normal epoxy (much less expensive) to fill the gaps and seal the ends. The final result is shown below:&lt;/p&gt;
 
-&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/sous-vide-2/DSC_6436.jpg&quot;&gt;&lt;img src=&quot;/images/sous-vide-2/DSC_6436-700x464.jpg&quot; alt=&quot;Temperature probe&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;http:rfwebb.com/images/sous-vide-2/DSC_6436.jpg&quot;&gt;&lt;img src=&quot;http:rfwebb.com/images/sous-vide-2/DSC_6436-700x464.jpg&quot; alt=&quot;Temperature probe&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;During testing, I had some problems with interference on the temperature probe which caused the software to stop reading temperatures, although this was alleviated by using shielded cables to the PCB, there is still room for improvement.&lt;/p&gt;
 
@@ -276,7 +277,7 @@ controller.&lt;/p&gt;
 
 &lt;p&gt;Overall, I was fairly satisfied with the project. The main problem with the technique is that it lacks a circulator to redistribute the water around the vessel. This led to temperature differentials within the water bath of up to 4 °C which could be a real problem when cooking steak or something similar. For some reason, this didn’t really affect the results too much, the steak below was cooked at 55.5 °C for about one hour.&lt;/p&gt;
 
-&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/sous-vide-2/DSC_6225.jpg&quot;&gt;&lt;img src=&quot;/images/sous-vide-2/DSC_6225-700x464.jpg&quot; alt=&quot;Steak&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;http:rfwebb.com/images/sous-vide-2/DSC_6225.jpg&quot;&gt;&lt;img src=&quot;http:rfwebb.com/images/sous-vide-2/DSC_6225-700x464.jpg&quot; alt=&quot;Steak&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I will at some point produce another prototype, however I think I will move towards an immersion style heater, most likely built into a water bath with a circulator. Although this removes the possibility of using different size baths, I doubt I will ever need a huge amount of space, whatever is being cooked can generally be cut into pieces and done in batches if necessary. I will definitely use either a thermistor or RTD in the next version, although the final accuracy wouldn’t be that important, the resolution would probably be useful for the control algorithms. Also useful would be a quicker response time on the temperature sensor however this was much improved by using thermally conductive epoxy.&lt;/p&gt;
 
@@ -286,22 +287,22 @@ controller.&lt;/p&gt;
 
 
   
-  &lt;p&gt;&lt;a href=&quot;/projects/sous-vide-part-2&quot;&gt;Sous-Vide Controller Part 2 &#8211; Building and Testing&lt;/a&gt; was originally published by Richard Fortescue-Webb at &lt;a href=&quot;&quot;&gt;Richard Fortescue-Webb&lt;/a&gt; on June 18, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:rfwebb.com/projects/sous-vide-part-2&quot;&gt;Sous-Vide Controller Part 2 &#8211; Building and Testing&lt;/a&gt; was originally published by Richard Fortescue-Webb at &lt;a href=&quot;http:rfwebb.com&quot;&gt;Richard Fortescue-Webb&lt;/a&gt; on June 18, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Sous-Vide Controller Part 1 &#8211; Design]]></title>
-  <link rel="alternate" type="text/html" href="/projects/sous-vide-part-1"/>
-  <id>/projects/sous-vide-part-1</id>
+  <link rel="alternate" type="text/html" href="http:rfwebb.com/projects/sous-vide-part-1"/>
+  <id>http:rfwebb.com/projects/sous-vide-part-1</id>
   <published>2013-06-14T00:00:00+01:00</published>
   <updated>2013-06-14T00:00:00+01:00</updated>
   <author>
     <name>Richard Fortescue-Webb</name>
-    <uri></uri>
+    <uri>http:rfwebb.com</uri>
     <email>richard@rfwebb.com</email>
   </author>
-  <category scheme="/tags/#sous-vide" term="sous-vide" /><category scheme="/tags/#electronics" term="electronics" />
+  <category scheme="http:rfwebb.com/tags/#sous-vide" term="sous-vide" /><category scheme="http:rfwebb.com/tags/#electronics" term="electronics" />
   <content type="html">
   
     &lt;p&gt;Sous-vide cooking involves sealing food inside a bag (generally in a vacuum) and immersing the bag in a water bath at a carefully controlled temperature. Generally the water bath is kept at a fairly low temeperature – around 60 °C. By using such a low temperature it is possible to cook the item to an even temperature throughout, so a steak could be cooked to medium all the way through and then seared on the outside to give a result like the picture shown at the top of this page.&lt;/p&gt;
@@ -318,7 +319,7 @@ controller.&lt;/p&gt;
 
 &lt;p&gt;Having a plug-to-plug case something like the Codlo’s would be perfect however there’s nothing available like that and while it would be possible to make a box with both plug and socket, I decided in the end to just use a large ABS box from Maplin (the &lt;a href=&quot;http://www.maplin.co.uk/mb-plastic-boxes-1676&quot;&gt;MB4 enclosure&lt;/a&gt;) and mount a socket on the top. The box is large enough to mount a mains socket on one side and an LCD and interface buttons on the other. While I was working out the dimensions I drew up a quick mock-up:&lt;/p&gt;
 
-&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/sous-vide-1/mockup.png&quot;&gt;&lt;img src=&quot;/images/sous-vide-1/mockup-700x433.png&quot; alt=&quot;enclosure mockup&quot; title=&quot;A mockup of the enclosure&#39;s front panel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;http:rfwebb.com/images/sous-vide-1/mockup.png&quot;&gt;&lt;img src=&quot;http:rfwebb.com/images/sous-vide-1/mockup-700x433.png&quot; alt=&quot;enclosure mockup&quot; title=&quot;A mockup of the enclosure&#39;s front panel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The LCD can be used to display the temperature and current state of the cooker. The only input is a rotary encoder, this allows the desired temperature to be adjusted easily and also includes a push-button. I’ve also included a timer function, this allows the controller to turn off the heater when the timer finishes and a buzzer will sound to let the user know when the food is done.&lt;/p&gt;
 
@@ -342,29 +343,29 @@ controller.&lt;/p&gt;
 
 &lt;p&gt;The design revolves around a control loop to keep the temperature constant in the water bath, this will probably involve a PID loop. The temperature of the water is sensed by either of the two sensors and the power to the appliance is modulated through an SSR. The schematic is shown below:&lt;/p&gt;
 
-&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/sous-vide-1/schematic.png&quot;&gt;&lt;img src=&quot;/images/sous-vide-1/schematic-700x453.png&quot; alt=&quot;Schematic&quot; title=&quot;Schematic&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;http:rfwebb.com/images/sous-vide-1/schematic.png&quot;&gt;&lt;img src=&quot;http:rfwebb.com/images/sous-vide-1/schematic-700x453.png&quot; alt=&quot;Schematic&quot; title=&quot;Schematic&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The circuit is based around an ATmega168, this means its compatible with the Arduino bootloader and makes the software a little easier. The schematic is fairly simple. Power comes in from a transformer and is rectified and regulated, all the AVR circuitry is standard. The only unusual part is the thermistor sense circuit. I based the design on an application note from TI – &lt;a href=&quot;http://www.ti.com/general/docs/litabsmultiplefilelist.tsp?literatureNumber=sloa052&quot;&gt;SLOA052&lt;/a&gt;. Essentially, there are two problems with the standard method of using a potential divider to measure a thermistor’s voltage drop: non-linearities are introduced and the thermistor may be subject to self heating. By using a current source to pass a very small current through the thermistor and measuring the resulting voltage, both problems can be avoided. The voltage across the thermistor is then amplified and offset to move it into the range of an ADC.&lt;/p&gt;
 
 &lt;p&gt;I ended up using an &lt;a href=&quot;http://www.linear.com/docs/26279&quot;&gt;LTC2452&lt;/a&gt; for the ADC. This is almost certainly overkill, and a 12-bit ADC could be used instead but the LTC2452 met my requirements and was a reasonable price. There are actually a couple of components which could be changed for cheaper / lower performance parts, the op-amp is likely better than it needs to be and the current source could be implemented discretely to lower the cost. Most of the parts were what I had on hand from previous sample orders.&lt;/p&gt;
 
-&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/sous-vide-1/board.png&quot;&gt;&lt;img src=&quot;/images/sous-vide-1/board-700x470.png&quot; alt=&quot;Board Diagram&quot; title=&quot;The layout of the PCB&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;http:rfwebb.com/images/sous-vide-1/board.png&quot;&gt;&lt;img src=&quot;http:rfwebb.com/images/sous-vide-1/board-700x470.png&quot; alt=&quot;Board Diagram&quot; title=&quot;The layout of the PCB&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The PCB design was more rushed than I would have liked and as such I’ve already noticed a few mistakes, but I’ll detail those after I’ve built it up and tested it. I designed the board to mount directly under the lid of the box below the LCD. The rotary encoder is mounted on the top of the board and emerges through the lid. All the sensors are connected through headers since I’ll eventually be using sockets to connect them in to the box.&lt;/p&gt;
 
 &lt;p&gt;I used Mayhew Lab’s webGerber service to generate a render of the board with no soldermask or silkscreen.&lt;/p&gt;
 
-&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/sous-vide-1/board-top-copper_CROPPED1.png&quot;&gt;&lt;img src=&quot;/images/sous-vide-1/board-top-copper_CROPPED1-700x473.png&quot; alt=&quot;Board Render Top&quot; title=&quot;A render of the top copper layer on the pcb&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;http:rfwebb.com/images/sous-vide-1/board-top-copper_CROPPED1.png&quot;&gt;&lt;img src=&quot;http:rfwebb.com/images/sous-vide-1/board-top-copper_CROPPED1-700x473.png&quot; alt=&quot;Board Render Top&quot; title=&quot;A render of the top copper layer on the pcb&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/sous-vide-1/board-bottom-copper_CROPPED.png&quot;&gt;&lt;img src=&quot;/images/sous-vide-1/board-bottom-copper_CROPPED-700x472.png&quot; alt=&quot;Board Render Bottom&quot; title=&quot;A render of the bottom copper layer on the PCB&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;http:rfwebb.com/images/sous-vide-1/board-bottom-copper_CROPPED.png&quot;&gt;&lt;img src=&quot;http:rfwebb.com/images/sous-vide-1/board-bottom-copper_CROPPED-700x472.png&quot; alt=&quot;Board Render Bottom&quot; title=&quot;A render of the bottom copper layer on the PCB&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;All the files for the design are available on my &lt;a href=&quot;http://github.com/bitdivision/sous-vide&quot;&gt;github&lt;/a&gt;, feel free to share / modify / use them as you like.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/projects/sous-vide-part-2&quot; title=&quot;Sous-Vide Controller Part 2 – Building and Testing&quot;&gt;Part 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http:rfwebb.com/projects/sous-vide-part-2&quot; title=&quot;Sous-Vide Controller Part 2 – Building and Testing&quot;&gt;Part 2&lt;/a&gt;&lt;/p&gt;
 
 
   
-  &lt;p&gt;&lt;a href=&quot;/projects/sous-vide-part-1&quot;&gt;Sous-Vide Controller Part 1 &#8211; Design&lt;/a&gt; was originally published by Richard Fortescue-Webb at &lt;a href=&quot;&quot;&gt;Richard Fortescue-Webb&lt;/a&gt; on June 14, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:rfwebb.com/projects/sous-vide-part-1&quot;&gt;Sous-Vide Controller Part 1 &#8211; Design&lt;/a&gt; was originally published by Richard Fortescue-Webb at &lt;a href=&quot;http:rfwebb.com&quot;&gt;Richard Fortescue-Webb&lt;/a&gt; on June 14, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
