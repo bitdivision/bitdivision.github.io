@@ -2,22 +2,22 @@ callback([
 
   {
     "text": "Sous-Vide Controller Part 1 &#8211; Design",
-    "href": "/rfwebb.com/projects/sous-vide-part-1"
+    "href": "/projects/sous-vide-part-1"
   } ,
 
   {
     "text": "Sous-Vide Controller Part 2 &#8211; Building and Testing",
-    "href": "/rfwebb.com/projects/sous-vide-part-2"
+    "href": "/projects/sous-vide-part-2"
   } ,
 
   {
     "text": "Spirit Circuits &#8216;Go Naked&#8217; PCB Prototype Review",
-    "href": "/rfwebb.com/electronics/spirit-circuits-go-naked-pcb-prototype-review"
+    "href": "/electronics/spirit-circuits-go-naked-pcb-prototype-review"
   } ,
 
   {
     "text": "Installing Arch Linux on a Samsung Ativ Book 8 (NP880Z5E)",
-    "href": "/rfwebb.com/linux/archlinux-samsung-ativ-8"
+    "href": "/linux/archlinux-samsung-ativ-8"
   } 
 
 ])
