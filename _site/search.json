@@ -1,0 +1,35 @@
+[
+	
+		{
+		  "title"      : "Installing Arch Linux on a Samsung Ativ Book 8 (NP880Z5E)",
+		  "category"   : "Linux",
+		  "url"        : "/linux/archlinux-samsung-ativ-8",
+		  "date"       : "2013-10-02 00:00:00 +0100",
+		  "shortdate"  : "October 02, 2013"
+		} ,
+	
+		{
+		  "title"      : "Spirit Circuits &amp;#8216;Go Naked&amp;#8217; PCB Prototype Review",
+		  "category"   : "Electronics",
+		  "url"        : "/electronics/spirit-circuits-go-naked-pcb-prototype-review",
+		  "date"       : "2013-08-29 00:00:00 +0100",
+		  "shortdate"  : "August 29, 2013"
+		} ,
+	
+		{
+		  "title"      : "Sous-Vide Controller Part 2 &amp;#8211; Building and Testing",
+		  "category"   : "Projects",
+		  "url"        : "/projects/sous-vide-part-2",
+		  "date"       : "2013-06-18 00:00:00 +0100",
+		  "shortdate"  : "June 18, 2013"
+		} ,
+	
+		{
+		  "title"      : "Sous-Vide Controller Part 1 &amp;#8211; Design",
+		  "category"   : "Projects",
+		  "url"        : "/projects/sous-vide-part-1",
+		  "date"       : "2013-06-14 00:00:00 +0100",
+		  "shortdate"  : "June 14, 2013"
+		} 
+	
+]
