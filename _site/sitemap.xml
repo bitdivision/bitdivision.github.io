@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>rfwebb.com</loc>
+        <loc>/rfwebb.com</loc>
     </url>
     
     
     <url>
-        <loc>rfwebb.com/404.html</loc>
+        <loc>/rfwebb.com/404.html</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/about/index.html</loc>
+        <loc>/rfwebb.com/about/index.html</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/categories/index.html</loc>
+        <loc>/rfwebb.com/categories/index.html</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/featured/</loc>
+        <loc>/rfwebb.com/featured/</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/feed.xml</loc>
+        <loc>/rfwebb.com/feed.xml</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/index.html</loc>
+        <loc>/rfwebb.com/index.html</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/links.jsonp</loc>
+        <loc>/rfwebb.com/links.jsonp</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/search.json</loc>
+        <loc>/rfwebb.com/search.json</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/sitemap.xml</loc>
+        <loc>/rfwebb.com/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/tags/index.html</loc>
+        <loc>/rfwebb.com/tags/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>rfwebb.com/linux/archlinux-samsung-ativ-8</loc>
+        <loc>/rfwebb.com/linux/archlinux-samsung-ativ-8</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/electronics/spirit-circuits-go-naked-pcb-prototype-review</loc>
+        <loc>/rfwebb.com/electronics/spirit-circuits-go-naked-pcb-prototype-review</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/projects/sous-vide-part-2</loc>
+        <loc>/rfwebb.com/projects/sous-vide-part-2</loc>
     </url>
     
     <url>
-        <loc>rfwebb.com/projects/sous-vide-part-1</loc>
+        <loc>/rfwebb.com/projects/sous-vide-part-1</loc>
     </url>
     
 </urlset>
