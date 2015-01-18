@@ -13,7 +13,7 @@ I recently purchased a new Samsung Ativ book 8 from [BestBuy][1]. Here I'll
 document a few tips and tricks I found when installing both Ubuntu and Arch on
 my new laptop.
 
-Despite using Arch Linux for the past few years, I wanted something quick and easy to get up and running so I went back to Ubuntu. There is already some information available on this process available [here][2] so I started going through the guide, disabled fast boot and secure boot in the BIOS, booted from USB, installed Ubuntu with default options. On reboot, I could no longer boot Windows from grub (Invalid EFI file). This was fixed by installing boot repair on Ubuntu and running it with the default settings.
+espite using Arch Linux for the past few years, I wanted something quick and easy to get up and running so I went back to Ubuntu. There is already some information available on this process available [here][2] so I started going through the guide, disabled fast boot and secure boot in the BIOS, booted from USB, installed Ubuntu with default options. On reboot, I could no longer boot Windows from grub (Invalid EFI file). This was fixed by installing boot repair on Ubuntu and running it with the default settings.
 
 When I got to this point I was already finding Ubuntu frustrating and was unhappy with the general responsiveness of the machine so I ordered an SSD on Amazon and figured I&#8217;d start again with a fresh install of Arch Linux. I ordered the [250GB Samsung SSD Evo][3] which seemed to have the best price/performance ratio. So here I will document the process of installing Arch.
 

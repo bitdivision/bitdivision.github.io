@@ -18,6 +18,11 @@ callback([
   {
     "text": "Installing Arch Linux on a Samsung Ativ Book 8 (NP880Z5E)",
     "href": "/linux/archlinux-samsung-ativ-8"
+  } ,
+
+  {
+    "text": "Repairing a Roland Digital Piano",
+    "href": "/electronics/digital-piano-repair"
   } 
 
 ])

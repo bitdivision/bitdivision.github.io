@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Repairing a Roland Digital Piano",
+		  "category"   : "Electronics",
+		  "url"        : "/electronics/digital-piano-repair",
+		  "date"       : "2015-02-01 00:00:00 +0000",
+		  "shortdate"  : "February 01, 2015"
+		} ,
+	
+		{
 		  "title"      : "Installing Arch Linux on a Samsung Ativ Book 8 (NP880Z5E)",
 		  "category"   : "Linux",
 		  "url"        : "/linux/archlinux-samsung-ativ-8",

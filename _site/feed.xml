@@ -9,13 +9,120 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2014-12-15T19:16:15+00:00</updated>
+<updated>2015-01-18T22:15:19+00:00</updated>
 <id>/</id>
 <author>
   <name>Richard Fortescue-Webb</name>
   <uri>/</uri>
   <email>richard@rfwebb.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Repairing a Roland Digital Piano]]></title>
+  <link rel="alternate" type="text/html" href="/electronics/digital-piano-repair"/>
+  <id>/electronics/digital-piano-repair</id>
+  <published>2015-02-01T00:00:00+00:00</published>
+  <updated>2015-02-01T00:00:00+00:00</updated>
+  <author>
+    <name>Richard Fortescue-Webb</name>
+    <uri></uri>
+    <email>richard@rfwebb.com</email>
+  </author>
+  <category scheme="/tags/#repair" term="repair" /><category scheme="/tags/#piano" term="piano" /><category scheme="/tags/#electronics" term="electronics" />
+  <content type="html">
+  
+    &lt;p&gt;I’ve wanted a digital piano for some time now, and I still occasionally glance
+over the ‘spares and repairs’ category on eBay in hopes of a cheap deal.
+Finally, I found one:&lt;/p&gt;
+
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/keyboard/keyboard.jpg&quot;&gt;&lt;img src=&quot;/images/keyboard/keyboard.jpg&quot; alt=&quot;picture of the keyboard&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+
+&lt;p&gt;According to the previous owner, when she bought the piano, it was working
+fine. Over time it developed a crackle and eventually stopped producing any
+audio output whatsoever. It does however turn on and the digital stuff appears
+fine, the screen and buttons were all working.&lt;/p&gt;
+
+&lt;p&gt;Opening up the keyboard, I found a problem pretty quickly. Leaky capacitors:&lt;/p&gt;
+
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/keyboard/leaky.JPG&quot;&gt;&lt;img src=&quot;/images/keyboard/leaky.JPG&quot; alt=&quot;leaky capacitors&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;capacitors&quot;&gt;Capacitors&lt;/h2&gt;
+&lt;p&gt;Electrolytic capacitors are composed of a thin sheet of (usually) aluminium bathed in
+electrolyte. At the factory a dielectric oxide layer is formed on the aluminium
+by applying a voltage to it and thus creating a capacitor.&lt;/p&gt;
+
+&lt;p&gt;Over time the electrolyte in these capacitors dries out, usually causing the
+capacitance to decrease and the impedance to increase. In some cases, gas build
+up inside the capacitor and then bursts, leaking electrolyte onto the PCB,
+   which is what has happened here.&lt;/p&gt;
+
+&lt;p&gt;The electrolyte is corrosive and as you can see from the photos below, can be
+quite damaging to the copper traces around it. Nearly all of the capacitors on
+the main board have leaked and corroded the copper around them, so they all had
+to be replaced.&lt;/p&gt;
+
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/keyboard/corrosion.JPG&quot;&gt;&lt;img src=&quot;/images/keyboard/corrosion.JPG&quot; alt=&quot;Corroded copper&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/keyboard/corrosion_close.JPG&quot;&gt;&lt;img src=&quot;/images/keyboard/corrosion_close.JPG&quot; alt=&quot;More corrosion&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The worst offenders were to be found in the audio output stage of the board,
+    directly after the DACs and before the connector for the amplifier. There
+    are two 5V regulators here with electrolytics around them, so I’d imagine
+    the heat from the regulators accelerated the leaking process and caused the
+    worst corrosion. &lt;/p&gt;
+
+&lt;h2 id=&quot;the-repair&quot;&gt;The repair&lt;/h2&gt;
+
+&lt;p&gt;I started off removing the faulty capacitors with a soldering iron resulting in
+a few lifted pads, and soon switched to a hot air station. The electrolyte
+seems to ‘stick’ the caps to the board so this wasn’t as easy as I had hoped
+but in the end, I got them all off.&lt;/p&gt;
+
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/keyboard/caps_removed.JPG&quot;&gt;&lt;img src=&quot;/images/keyboard/caps_removed.JPG&quot; alt=&quot;Capacitors desoldered&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Reading around on electronics forums seems to show that deionised water is
+the best option for cleaning off the old electrolyte so I brushed the board
+down with water and alcohol. After removing the solder I ended up with a slightly
+cleaner board.&lt;/p&gt;
+
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/keyboard/cleaned.JPG&quot;&gt;&lt;img src=&quot;/images/keyboard/cleaned.JPG&quot; alt=&quot;Cleaned board&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the electrolyte had actually corroded away a number of traces
+and vias completely, which is almost certainly what caused the original
+problem. I fixed these traces with mod wires and solder and replaced the lifted
+pads with solder braid where necessary. I had to remove the -5V regulator to
+clean up the corrosion beneath it and in the process snapped off a leg. So that
+has now been replaced with a TO-220 package.&lt;/p&gt;
+
+&lt;p&gt;In some places the electrolyte had migrated along the tracks underneath the
+soldermask. In these cases I tried to scrape off as much soldermask as possible
+and clean the copper underneath to prevent further corrosion.&lt;/p&gt;
+
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/keyboard/repairing_traces.JPG&quot;&gt;&lt;img src=&quot;/images/keyboard/repairing_traces.JPG&quot; alt=&quot;Cleaned with tracesCleaned with traces and pads fixed and pads fixed&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I ended up replacing the caps with a variety of caps, mainly because it’s much
+easier to solder them in (especially where broken traces and mods occurred) and
+there weren’t any particular space requirements.&lt;/p&gt;
+
+&lt;p class=&quot;with-image&quot;&gt;&lt;a href=&quot;/images/keyboard/finished.JPG&quot;&gt;&lt;img src=&quot;/images/keyboard/finished.JPG&quot; alt=&quot;new capacitors&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;it-works&quot;&gt;It Works!&lt;/h2&gt;
+
+&lt;p&gt;Turning everything on, the keyboard works fairly well, there is still a slight
+tone over the notes being played, this is barely noticeable unless the treble
+is turned up but I will try to diagnose it eventually.&lt;/p&gt;
+
+&lt;p&gt;I have been thinking about designing a USB midi board to interface with the
+keyboard matrix, allowing me to replace all the aging electronics with a single
+board linux computer, but this is probably some time off.&lt;/p&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;/electronics/digital-piano-repair&quot;&gt;Repairing a Roland Digital Piano&lt;/a&gt; was originally published by Richard Fortescue-Webb at &lt;a href=&quot;&quot;&gt;Richard Fortescue-Webb&lt;/a&gt; on February 01, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -36,7 +143,7 @@
 document a few tips and tricks I found when installing both Ubuntu and Arch on
 my new laptop.&lt;/p&gt;
 
-&lt;p&gt;Despite using Arch Linux for the past few years, I wanted something quick and easy to get up and running so I went back to Ubuntu. There is already some information available on this process available &lt;a href=&quot;http://forum.notebookreview.com/samsung/723676-linux-series-7-2013-ativ-book-8-a.html&quot;&gt;here&lt;/a&gt; so I started going through the guide, disabled fast boot and secure boot in the BIOS, booted from USB, installed Ubuntu with default options. On reboot, I could no longer boot Windows from grub (Invalid EFI file). This was fixed by installing boot repair on Ubuntu and running it with the default settings.&lt;/p&gt;
+&lt;p&gt;espite using Arch Linux for the past few years, I wanted something quick and easy to get up and running so I went back to Ubuntu. There is already some information available on this process available &lt;a href=&quot;http://forum.notebookreview.com/samsung/723676-linux-series-7-2013-ativ-book-8-a.html&quot;&gt;here&lt;/a&gt; so I started going through the guide, disabled fast boot and secure boot in the BIOS, booted from USB, installed Ubuntu with default options. On reboot, I could no longer boot Windows from grub (Invalid EFI file). This was fixed by installing boot repair on Ubuntu and running it with the default settings.&lt;/p&gt;
 
 &lt;p&gt;When I got to this point I was already finding Ubuntu frustrating and was unhappy with the general responsiveness of the machine so I ordered an SSD on Amazon and figured I’d start again with a fresh install of Arch Linux. I ordered the &lt;a href=&quot;http://www.amazon.com/Samsung-Electronics-EVO-Series-2-5-Inch-MZ-7TE250BW/dp/B00E3W1726/&quot; title=&quot;Amazon Samsung 840 Evo 250GB&quot;&gt;250GB Samsung SSD Evo&lt;/a&gt; which seemed to have the best price/performance ratio. So here I will document the process of installing Arch.&lt;/p&gt;
 
