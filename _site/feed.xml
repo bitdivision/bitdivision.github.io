@@ -9,7 +9,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="/" />
-<updated>2015-01-18T22:15:19+00:00</updated>
+<updated>2015-05-16T11:44:40+01:00</updated>
 <id>/</id>
 <author>
   <name>Richard Fortescue-Webb</name>
@@ -72,7 +72,7 @@ to be replaced.&lt;/p&gt;
     directly after the DACs and before the connector for the amplifier. There
     are two 5V regulators here with electrolytics around them, so I’d imagine
     the heat from the regulators accelerated the leaking process and caused the
-    worst corrosion. &lt;/p&gt;
+    worst corrosion.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-repair&quot;&gt;The repair&lt;/h2&gt;
 
@@ -223,7 +223,7 @@ my new laptop.&lt;/p&gt;
 
 &lt;h4 id=&quot;volume-buttons&quot;&gt;Volume Buttons&lt;/h4&gt;
 
-&lt;p&gt;The volume buttons on the keyboard can be used to adjust the volume by finding the keycode from &lt;em&gt;xev&lt;/em&gt; and using that to call a script and adjust the volume. &lt;/p&gt;
+&lt;p&gt;The volume buttons on the keyboard can be used to adjust the volume by finding the keycode from &lt;em&gt;xev&lt;/em&gt; and using that to call a script and adjust the volume.&lt;/p&gt;
 
 &lt;p&gt;Since I am using i3, this is fairly simple to do, just add the following lines to your i3 configuration&lt;/p&gt;
 
@@ -299,11 +299,11 @@ of the kernel, I would suggest not using acpi-call.&lt;/p&gt;
 &lt;p&gt;Having previously used their PCB Snap service, I knew that Spirit Circuits produced high quality boards however given the price of these prototypes, I was worried the quality wouldn’t be great. Luckily I was proved wrong. After enquiring about the service I was given the following information about the board specifications:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Min Track – 5 thou – 0.127 mm  &lt;/li&gt;
-  &lt;li&gt;Gap – 5 thou – 0.127 mm  &lt;/li&gt;
-  &lt;li&gt;Annular – 5 Thou – 0.127 mm  &lt;/li&gt;
-  &lt;li&gt;Minimum Hole size – 0.3 mm  &lt;/li&gt;
-  &lt;li&gt;Minimum Annulus – 5 thou – 0.127 mm  &lt;/li&gt;
+  &lt;li&gt;Min Track – 5 thou – 0.127 mm&lt;/li&gt;
+  &lt;li&gt;Gap – 5 thou – 0.127 mm&lt;/li&gt;
+  &lt;li&gt;Annular – 5 Thou – 0.127 mm&lt;/li&gt;
+  &lt;li&gt;Minimum Hole size – 0.3 mm&lt;/li&gt;
+  &lt;li&gt;Minimum Annulus – 5 thou – 0.127 mm&lt;/li&gt;
   &lt;li&gt;Max size (FR4): 406 mm x 457 mm&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -417,7 +417,7 @@ controller.&lt;/p&gt;
 
 &lt;h2 id=&quot;types-of-sous-vide-cooker&quot;&gt;Types of sous-vide cooker&lt;/h2&gt;
 
-&lt;p&gt;There are currently two common methods of creating a sous-vide bath: immersion heaters and those with an element outside of the water container. Immersion heaters are generally portable and can be attached to any container which is a huge advantage if you ever need to cook a large item. Kickstarter has recently had two sous-vide controllers based on both methods, the &lt;a href=&quot;http://nomiku.com&quot;&gt;Nomiku&lt;/a&gt;, an immersion heater and the &lt;a href=&quot;http://www.kickstarter.com/projects/codlo/codlo-a-powerful-compact-controller-for-sous-vide&quot;&gt;Codlo&lt;/a&gt;, which allows any heating appliance like a rice cooker to be used as a water bath. &lt;/p&gt;
+&lt;p&gt;There are currently two common methods of creating a sous-vide bath: immersion heaters and those with an element outside of the water container. Immersion heaters are generally portable and can be attached to any container which is a huge advantage if you ever need to cook a large item. Kickstarter has recently had two sous-vide controllers based on both methods, the &lt;a href=&quot;http://nomiku.com&quot;&gt;Nomiku&lt;/a&gt;, an immersion heater and the &lt;a href=&quot;http://www.kickstarter.com/projects/codlo/codlo-a-powerful-compact-controller-for-sous-vide&quot;&gt;Codlo&lt;/a&gt;, which allows any heating appliance like a rice cooker to be used as a water bath.&lt;/p&gt;
 
 &lt;p&gt;I eventually decided to build something like the Codlo, since it is far simpler to build and doesn’t really require the water in the bath to be circulated which would require something like an aquarium pump.&lt;/p&gt;
 
@@ -441,7 +441,7 @@ controller.&lt;/p&gt;
 
 &lt;p&gt;Digital Temperature Sensors – Popularised by Maxim, these parts output a calibrated temperature accurate to within 0.5 °C on a one-wire bus. They are extremely easy to interface to and have high enough accuracy for most applications.&lt;/p&gt;
 
-&lt;p&gt;After some thought I eventually decided to use both a thermistor and a digital temperature sensor in my design, I wanted high accuracy and hence a thermistor seemed to be the best option (although I may change this to an RTD in the next prototype). The most common method for reading temperatures from a thermistor is to use a simple potential divider but this has fundamental issues and does not give very high accuracy. I used a slightly less common method of interfacing with the thermistor to achieve slightly higher accuracy. This is of course probably unnecessary. Although websites often state that super accuracy is the most important part of sous-vide, I can’t really see there being any problem with using a sensor accurate to 1 °C. That’s why I also included a digital sensor in my design, to make getting the basic control algorithms up and running a bit easier, and also just in case my thermistor circuit didn’t work (I didn’t have a chance to test it). &lt;/p&gt;
+&lt;p&gt;After some thought I eventually decided to use both a thermistor and a digital temperature sensor in my design, I wanted high accuracy and hence a thermistor seemed to be the best option (although I may change this to an RTD in the next prototype). The most common method for reading temperatures from a thermistor is to use a simple potential divider but this has fundamental issues and does not give very high accuracy. I used a slightly less common method of interfacing with the thermistor to achieve slightly higher accuracy. This is of course probably unnecessary. Although websites often state that super accuracy is the most important part of sous-vide, I can’t really see there being any problem with using a sensor accurate to 1 °C. That’s why I also included a digital sensor in my design, to make getting the basic control algorithms up and running a bit easier, and also just in case my thermistor circuit didn’t work (I didn’t have a chance to test it).&lt;/p&gt;
 
 &lt;h2 id=&quot;circuit-and-pcb&quot;&gt;Circuit and PCB&lt;/h2&gt;
 
