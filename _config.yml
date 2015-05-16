@@ -16,7 +16,7 @@ owner:
   avatar:         Richard.jpg
   email:          richard@rfwebb.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    
+  description:    The personal blog of Richard Fortescue-Webb
   # Social networking links used in footer. Update and remove as you like.
   twitter:        bitdivision
   github:         bitdivision
